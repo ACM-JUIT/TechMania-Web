@@ -20,3 +20,8 @@ The objective of this project is to introduce you to web development and help yo
 - Learn the basics of HTML, CSS, React.
 - Create a boilerplate for a basic website to reuse in future
 - Learn how to handle api's and state management
+
+
+## Conclusion:
+
+- The project was completed as a part of OSO under ACM JUIT
